@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "Palacian_Ioana_Teodora_proiectContext"
+    }
+  }
+}
